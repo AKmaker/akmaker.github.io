@@ -10,6 +10,9 @@ About
 
 * AKmaker的使命是为开源软硬件爱好者打造一个最好的社区, 他们在这里可以获得灵感, 分享创意, 找到伙伴, 获得通向目标的加速度.
 
+心愿墙
+-----
+使用Trello无缝的连接开发者和用户, 你的选择将直接影响开发进度安排,请在<https://trello.com/b/V7PxkUG9/rd>上面对你最想要的需求Card进行投票(打开该Card后, 点击右下角的Vote即可).
 
 如何开始
 -------
@@ -20,3 +23,16 @@ About
 -------
 希望大家能够统一自己的id, 全部以GitHub上的id为准.
 qq群: 227243654 (加群暗号: ak).
+
+* 微信公众账号: AK技术圈(Akamad201)
+* Email list: <https://groups.google.com/group/akmaker>
+* [BBS](http://moot.it/akmaker)
+* [豆瓣小组](http://www.douban.com/group/500680/)
+* [新浪微群](http://q.weibo.com/1929743)
+* [网店](http://shop.akagi201.org)
+
+
+历史
+---
+* 2013/10/28, Trello心愿墙上线, 不知道国内用户接受度如何.
+
