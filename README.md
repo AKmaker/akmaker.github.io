@@ -1,8 +1,9 @@
 AK创客空间(AKmaker)
 =================
 
-官网: <http://akmaker.com>
-创始人博客: <http://akagi201.org>
+* 官网: <http://akmaker.com>
+* 创始人博客: <http://akagi201.org>
+* SubReddit: <http://www.reddit.com/r/AKmaker>
 
 About
 -----
@@ -26,7 +27,7 @@ qq群: 212106391 (加群暗号: ak).
 
 * 微信公众账号: AK技术圈(Akamad201)
 * Email list: <https://groups.google.com/group/akmaker>
-* [BBS](http://moot.it/akmaker)
+* [分享社区](http://www.reddit.com/r/AKmaker)
 * [豆瓣小组](http://www.douban.com/group/500680/)
 * [新浪微群](http://q.weibo.com/1929743)
 * [网店](http://shop.akagi201.org)
@@ -35,4 +36,5 @@ qq群: 212106391 (加群暗号: ak).
 历史
 ---
 * 2013/10/28, Trello心愿墙上线, 不知道国内用户接受度如何.
+* 2014/04/26, 创建subreddit: <http://www.reddit.com/r/AKmaker>
 
