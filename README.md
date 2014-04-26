@@ -22,7 +22,7 @@ About
 加入我们
 -------
 希望大家能够统一自己的id, 全部以GitHub上的id为准.
-qq群: 227243654 (加群暗号: ak).
+qq群: 212106391 (加群暗号: ak).
 
 * 微信公众账号: AK技术圈(Akamad201)
 * Email list: <https://groups.google.com/group/akmaker>
