@@ -5,7 +5,7 @@ AK创客空间(AKmaker)
 * 创始人博客: <http://akagi201.org>
 * SubReddit: <http://www.reddit.com/r/AKmaker>
 
-[AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
+![AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
 
 About
 -----
