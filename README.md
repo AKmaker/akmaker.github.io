@@ -5,6 +5,8 @@ AK创客空间(AKmaker)
 * 创始人博客: <http://akagi201.org>
 * SubReddit: <http://www.reddit.com/r/AKmaker>
 
+[AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
+
 About
 -----
 * AKmaker's mission is to create the best place for opensource hardware and opensource software lovers. A place where they can get inspired, sharing ideas, finding partners, and gaining momentum on goals.
@@ -25,13 +27,12 @@ About
 希望大家能够统一自己的id, 全部以GitHub上的id为准.
 qq群: 212106391 (加群暗号: ak).
 
-* 微信公众账号: AK技术圈(Akamad201)
+* 微信公众账号: AK创客空间(AKmaker)
 * Email list: <https://groups.google.com/group/akmaker>
 * [分享社区](http://www.reddit.com/r/AKmaker)
 * [豆瓣小组](http://www.douban.com/group/500680/)
 * [新浪微群](http://q.weibo.com/1929743)
 * [网店](http://shop.akagi201.org)
-
 
 历史
 ---
