@@ -3,6 +3,7 @@ AK创客空间(AKmaker)
 
 * 官网: <http://akmaker.com>
 * 创始人博客: <http://akagi201.org>
+* 社区: <http://bbs.akmaker.com>
 * SubReddit: <http://www.reddit.com/r/AKmaker>
 
 ![AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
@@ -38,4 +39,4 @@ qq群: 212106391 (加群暗号: ak).
 ---
 * 2013/10/28, Trello心愿墙上线, 不知道国内用户接受度如何.
 * 2014/04/26, 创建subreddit: <http://www.reddit.com/r/AKmaker>
-
+* 2014/05/06, AK创客空间论坛上线.
