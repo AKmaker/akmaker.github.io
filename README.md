@@ -5,6 +5,7 @@ AK创客空间(AKmaker) - 简称**A创**
 * 创始人博客: <http://akagi201.org>
 * 社区: <http://bbs.akmaker.com>
 * SubReddit: <http://www.reddit.com/r/AKmaker>
+* IRC channel: #akmaker@irc.freenode.net
 
 ![AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
 
@@ -40,4 +41,5 @@ qq群: 212106391 (加群暗号: ak).
 * 2013/10/28, Trello心愿墙上线, 不知道国内用户接受度如何.
 * 2014/04/26, 创建subreddit: <http://www.reddit.com/r/AKmaker>
 * 2014/05/06, AK创客空间论坛上线.
-* 2014/05/11, AK创客空间得到一个简称**A创**.
+* 2014/05/10, 去杭州创客空间的路上想到一个简短的名字, AK创客空间得到一个简称**A创**.
+* 2014/05/11, 上线IRC频道
