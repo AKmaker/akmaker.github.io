@@ -6,6 +6,7 @@ AK创客空间(AKmaker) - 简称**A创**
 * 社区: <http://bbs.akmaker.com>
 * SubReddit: <http://www.reddit.com/r/AKmaker>
 * IRC channel: #akmaker@irc.freenode.net
+* 微云共享: <http://url.cn/Pp9mz8> （密码：qvSz）
 
 ![AKmaker](http://akagi201.qiniudn.com/akmaker_qr.jpg)
 
@@ -42,5 +43,6 @@ qq群: 212106391 (加群暗号: ak).
 * 2014/04/26, 创建subreddit: <http://www.reddit.com/r/AKmaker>
 * 2014/05/06, AK创客空间论坛上线.
 * 2014/05/10, 去杭州创客空间的路上想到一个简短的名字, AK创客空间得到一个简称**A创**.
-* 2014/05/11, 上线IRC频道
+* 2014/05/11, 上线IRC频道.
 * 2014/05/11, 删掉心愿墙, 替换成trello上的todo list.
+* 2014/05/23, 增加微云共享链接.
