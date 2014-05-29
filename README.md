@@ -28,7 +28,7 @@ Todo List
 加入我们
 -------
 希望大家能够统一自己的id, 全部以GitHub上的id为准.
-qq群: 212106391 (加群暗号: ak).
+qq群: 212106391 (加群验证: 特长+github账号).
 
 * 微信公众账号: AK创客空间(AKmaker)
 * Email list: <https://groups.google.com/group/akmaker>
